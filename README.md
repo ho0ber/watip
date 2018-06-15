@@ -1,2 +1,2 @@
-# whatip
+# watip
 Simple IP information service

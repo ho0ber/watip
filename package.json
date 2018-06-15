@@ -1,0 +1,12 @@
+{
+  "name": "whatip",
+  "version": "1.0.0",
+  "description": "Simple IP information service",
+  "author": "Samuel Colburn <ho0ber@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+  }
+}
