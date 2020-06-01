@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: hackwar
+  IMAGE_NAME: watip
 
 jobs:
   # Run tests.
